@@ -1,6 +1,6 @@
-**Would You? **is a party game meant to play in person! This app helps you keep track of everyones position in the game. 
+**Would You?** is a party game meant to play in person! This app helps you keep track of everyones position in the game. 
 
-**How to Play **
+**How to Play**
 Each player chooses a mystery character from an agreed upon list. When it is a player's turn, they can choose any other player at the table and ask them a subjective yes or no question about their secret identity. The player who is being asked must answer truthfully and everyone can hear the answer.
 
 Subjective questions are ones that do not have a definitive yes or no answer. For example, "Would your person own a vintage car?" is subjective - because even if we don't know if that person/character does or doesn't own a vintage car, we could imagine a type of person that WOULD. On the flipside, questions about someone's appearance or characteristics like "Does your person wear glasses?" are not subjective.
